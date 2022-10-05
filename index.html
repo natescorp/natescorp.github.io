@@ -29,5 +29,41 @@
 	</head>
 	<body>
 		<h1>Hello World!</h1>
+		<ul id="radio"></ul>
+		<script>
+			var radioWaves = [
+				{ name: 'relax', wave: 87.5 },
+				{ name: 'народное', wave: 87.9 },
+				{ name: 'Минск', wave: 92.4 },
+				{ name: '', wave: 92.8 },
+				{ name: 'Юмор', wave: 93.7 },
+				{ name: 'Легенды', wave: 94.1 },
+				{ name: '', wave: 95.7 },
+				{ name: 'Мелодии Века', wave: 96.2 },
+				{ name: 'Ретро', wave: 96.9 },
+				{ name: 'Минская волна', wave: 97.4 },
+				{ name: 'Авторадио', wave: 98.0 },
+				{ name: 'Новое', wave: 98.4 },
+				{ name: 'Русское', wave: 98.9 },
+				{ name: 'Unistar', wave: 99.5 },
+				{ name: 'Energy', wave: 100.4 },
+				{ name: 'Пилот', wave: 101.2 },
+				{ name: 'Центр', wave: 101.7 },
+				{ name: 'Рокс', wave: 102.1 },
+				{ name: 'Компас', wave: 102.5 },
+				{ name: 'Культура', wave: 102.9 },
+				{ name: 'Радиус', wave: 103.7 },
+				{ name: 'BA', wave: 104.6 },
+				{ name: 'Столица', wave: 105.1 },
+				{ name: 'Душевное', wave: 105.7 },
+				{ name: 'Первый национальный', wave: 106.2 },
+				{ name: 'Мир', wave: 107.1 },
+				{ name: 'Альфа', wave: 107.9 }
+			];
+			var list = document.getElementById('radio');
+			list.innerHTML = radioWaves.map(function (radioWave) {
+				return `<li>${radioWave.wave} - ${radioWave.name}</li>`
+			}).join('');
+		</script>
 	</body>
 </html>
