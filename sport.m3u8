@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2017.png",Матч! HD
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2051.png",МАТЧ ТВ HD
+http://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2051.png",МАТЧ ТВ!
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2051.png",МАТЧ ТВ H
+https://livetv.mylifeisgood.ml/channels/matchhd_nocensored
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2051.png",МАТЧ ТВ
+http://iptv.ktkru.ru:8003/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/4189.png",МАТЧ! СТРАНА  HD
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/4189.png",МАТЧ! СТРАНА
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/4189.png",МАТЧ! СТРАНА
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/4189.png",МАТЧ! СТРАНА
+https://livetv.mylifeisgood.ml/channels/matchstrana
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2003.png",Матч! Арена
+https://livetv.mylifeisgood.ml/channels/matcharenahd
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2049.png",Матч! Арена HD
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://picon-13398.kxcdn.com/matchigraru.jpg",Матч! Игра
+https://livetv.mylifeisgood.ml/channels/matchigra
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://picon-13398.kxcdn.com/matchigraru.jpg",Матч! Игра
+http://46.174.83.66/Match_Igra/index.m3u8?em9uYS1pcHR2LnJ1
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://185.220.35.75:4002/icons/MATCHPLANETA.png",Матч! Планета
+https://sc.id-tv.kz:443/MatchPlaneta_36_37.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Наш спорт
+http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2054.png",Матч! Боец
+https://livetv.mylifeisgood.ml/channels/matchboew
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2054.png",Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2285.png",БОКС ТВ
+https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://getsiptv.ru/img/ch_icons/khl_tv_hd.png",КХЛ
+https://sc.id-tv.kz:443/FHD_KHL_34_35.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/4678.png",НТВ+ Спорт HD
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/4678.png",НТВ+ Спорт HD
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/4678.png",НТВ+ Спорт HD
+http://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/4678.png",НТВ+ Спорт HD
+https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/4678.png",НТВ+ Спорт HD
+https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2055.png",Viasat Sport HD
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2055.png",Viasat Sport HD
+https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
+#EXTINF:-1 group-title="Спорт",Qazsport KZ
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1 group-title="Спорт",Motor Racing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:-1 group-title="Спорт",MostVideo TV HD
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2443.png",Red Booll
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2443.png",Red Booll HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2443.png",Red Booll HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2443.png",Red Booll
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?944623300051.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Спорт",Fight-Sports
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_2.m3u8
+#EXTINF:-1 group-title="Спорт",MMA Jankie HD
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 group-title="Спорт",Sports Tonight
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 group-title="Спорт",MySports 1 HD
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="Спорт",Конный Мир
+https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Bein Sport 1
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 group-title="Спорт",Bein Sports 2
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
