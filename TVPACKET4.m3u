@@ -1,15 +1,28 @@
+#EXTM3U
+#PLAYLIST:TVPACKET4
+
 #EXTINF:-1 group-title="Общедоступный",Беларусь 1 HD
 udp://@233.81.116.1:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 1 HD
+udp://@233.81.116.10:1234
+#EXTINF:-1 group-title="Общедоступный",Беларусь 1 HD
 udp://@233.81.116.19:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 1 HD
-udp://@233.81.116.39:1234
+udp://@233.81.116.79:1234
+#EXTINF:-1 group-title="Общедоступный",Беларусь 1 HD
+udp://@233.81.116.100:1234
+#EXTINF:-1 group-title="Общедоступный",Беларусь 1 HD
+udp://@233.81.116.191:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 1 HD
 udp://@233.81.116.201:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 1 HD
 udp://@233.81.116.221:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 1 HD
+udp://@233.81.116.222:1234
+#EXTINF:-1 group-title="Общедоступный",Беларусь 1 HD
 udp://@233.81.116.225:1234
+#EXTINF:-1 group-title="Общедоступный",Беларусь 1 HD
+udp://@233.81.116.226:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 2 HD
 udp://@233.81.116.2:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 2 HD
@@ -23,15 +36,25 @@ udp://@233.81.116.11:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 3 HD
 udp://@233.81.116.12:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 3 HD
+udp://@233.81.116.197:1234
+#EXTINF:-1 group-title="Общедоступный",Беларусь 3 HD
 udp://@233.81.116.208:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 3 HD
 udp://@233.81.116.218:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 3 HD
 udp://@233.81.116.229:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 4 HD
-udp://@233.81.116.224:1234
-#EXTINF:-1 group-title="Общедоступный",Беларусь 4 Витебск
+udp://@233.81.116.23:1234
+#EXTINF:-1 group-title="Общедоступный",Беларусь 4 HD
 udp://@233.81.116.223:1234
+#EXTINF:-1 group-title="Общедоступный",Беларусь 4 HD
+udp://@233.81.116.224:1234
+#EXTINF:-1 group-title="Общедоступный",Беларусь 4 Брест
+udp://@233.81.116.126:1234
+#EXTINF:-1 group-title="Общедоступный",Беларусь 4 Витебск
+udp://@233.81.116.16:1234
+#EXTINF:-1 group-title="Общедоступный",Беларусь 4 Гомель
+udp://@233.81.116.118:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 4 Гомель
 udp://@233.81.116.227:1234
 #EXTINF:-1 group-title="Общедоступный",Беларусь 4 Гомель
@@ -59,87 +82,89 @@ udp://@233.81.116.205:1234
 #EXTINF:-1 group-title="Общедоступный",ОНТ HD
 udp://@233.81.116.3:1234
 #EXTINF:-1 group-title="Общедоступный",ОНТ HD
+udp://@233.81.116.193:1234
+#EXTINF:-1 group-title="Общедоступный",ОНТ HD
 udp://@233.81.116.203:1234
 #EXTINF:-1 group-title="Общедоступный",РТР-Беларусь HD
 udp://@233.81.116.6:1234
 #EXTINF:-1 group-title="Общедоступный",РТР-Беларусь HD
 udp://@233.81.116.196:1234
+#EXTINF:-1 group-title="Общедоступный",РТР-Беларусь HD
+udp://@233.81.116.206:1234
 #EXTINF:-1 group-title="Общедоступный",СТВ HD
 udp://@233.81.116.4:1234
+#EXTINF:-1 group-title="Общедоступный",СТВ HD
+udp://@233.81.116.65:1234
 #EXTINF:-1 group-title="Общедоступный",СТВ HD
 udp://@233.81.116.194:1234
 #EXTINF:-1 group-title="Общедоступный",СТВ HD
 udp://@233.81.116.204:1234
 
-#EXTINF:-1 group-title="Новости",Euronews
-udp://@233.81.116.21:1234
-#EXTINF:-1 group-title="Новости",RTVi
-udp://@233.81.116.68:1234
-#EXTINF:-1 group-title="Новости",ББК
-udp://@233.81.116.24:1234
-
-
 #EXTINF:-1 group-title="Военные",Звязда
 udp://@233.81.116.81:1234
+#EXTINF:-1 group-title="Военные",Звязда
+udp://@233.81.116.135:1234
 
-#EXTINF:-1 group-title="Информационно-развлекательный",+TV
-udp://@233.81.116.112:1234
 #EXTINF:-1 group-title="Информационно-развлекательный",1-й городской канал
 udp://@233.81.116.136:1234
 #EXTINF:-1 group-title="Информационно-развлекательный",2-й городской канал
 udp://@233.81.116.90:1234
-#EXTINF:-1 group-title="Информационно-развлекательный",5 International
-udp://@233.81.116.13:1234
-#EXTINF:-1 group-title="Информационно-развлекательный",8 канал HD
-udp://@233.81.116.59:1234
-#EXTINF:-1 group-title="Информационно-развлекательный",UA
-udp://@233.81.116.102:1234
 #EXTINF:-1 group-title="Информационно-развлекательный",БелРос
 udp://@233.81.116.106:1234
+#EXTINF:-1 group-title="Информационно-развлекательный",Белсат
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1 group-title="Информационно-развлекательный",Белсат
+http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Информационно-развлекательный",Бобруйск 360
 udp://@233.81.116.145:1234
 #EXTINF:-1 group-title="Информационно-развлекательный",Домашний
 udp://@233.81.116.37:1234
+#EXTINF:-1 group-title="Информационно-развлекательный",Лагуна ТВ Брест
+udp://@233.81.116.22:1234
 #EXTINF:-1 group-title="Информационно-развлекательный",СКИФ HD
 udp://@233.81.116.101:1234
 
-#EXTINF:-1 group-title="Научно-популярные",DocuBox HD
-udp://@233.81.116.232:1234
+#EXTINF:-1 group-title="Научно-популярные",Animal Planet
+udp://@233.81.116.149:1234
 #EXTINF:-1 group-title="Научно-популярные",HD Life
 udp://@233.81.116.72:1234
-#EXTINF:-1 group-title="Научно-популярные",HD Медиа
-udp://@233.81.116.150:1234
+#EXTINF:-1 group-title="Научно-популярные",History
+udp://@233.81.116.95:1234
 #EXTINF:-1 group-title="Научно-популярные",History 2
-udp://@233.81.116.134:1234
-#EXTINF:-1 group-title="Научно-популярные",Nat Geo Wild
-udp://@233.81.116.174:1234
-#EXTINF:-1 group-title="Научно-популярные",National Geographic
-udp://@233.81.116.17:1234
-#EXTINF:-1 group-title="Научно-популярные",Ocean-TV
-udp://@233.81.116.73:1234
+udp://@233.81.116.49:1234
+#EXTINF:-1 group-title="Научно-популярные",Nano HD
+udp://@233.81.116.56:1234
+#EXTINF:-1 group-title="Научно-популярные",Russian Travel Guide
+udp://@233.81.116.125:1234
+#EXTINF:-1 group-title="Научно-популярные",Terra Incognita
+udp://@233.81.116.35:1234
 #EXTINF:-1 group-title="Научно-популярные",Travel + Adventure HD
 udp://@233.81.116.176:1234
 #EXTINF:-1 group-title="Научно-популярные",Viasat Explore
 udp://@233.81.116.103:1234
+#EXTINF:-1 group-title="Научно-популярные",Viasat Explore
+udp://@233.81.116.183:1234
 #EXTINF:-1 group-title="Научно-популярные",Viasat History
 udp://@233.81.116.104:1234
-#EXTINF:-1 group-title="Научно-популярные",Viasat Nature
+#EXTINF:-1 group-title="Научно-популярные",Viasat Nature HD
+udp://@233.81.116.68:1234
+#EXTINF:-1 group-title="Научно-популярные",Viasat Nature HD
 udp://@233.81.116.115:1234
-#EXTINF:-1 group-title="Научно-популярные",В мире животных
-udp://@233.81.116.132:1234
 #EXTINF:-1 group-title="Научно-популярные",Зоопарк
 udp://@233.81.116.43:1234
 #EXTINF:-1 group-title="Научно-популярные",Кто есть кто
-udp://@233.81.116.79:1234
+udp://@233.81.116.121:1234
 #EXTINF:-1 group-title="Научно-популярные",Неизвестная Планета
 udp://@233.81.116.154:1234
-#EXTINF:-1 group-title="Научно-популярные",Тайны галактики
-udp://@233.81.116.74:1234
-#EXTINF:-1 group-title="Научно-популярные",Терра Инкогнита
-udp://@233.81.116.74:1234
-#EXTINF:-1 group-title="Научно-популярные",Эврика HD (первый космический)
-udp://@233.81.116.133:1234
+#EXTINF:-1 group-title="Научно-популярные",Планета
+udp://@233.81.116.86:1234
 
+#EXTINF:-1 group-title="Кино",.black
+udp://@233.81.116.1:1234
+#EXTINF:-1 group-title="Кино",.red
+udp://@233.81.116.108:1234
+#EXTINF:-1 group-title="Кино",.sci-fi
+udp://@233.81.116.38:1234
 #EXTINF:-1 group-title="Кино",Amedia 1 HD
 udp://@233.81.116.70:1234
 #EXTINF:-1 group-title="Кино",Amedia 2 HD
@@ -149,208 +174,231 @@ udp://@233.81.116.171:1234
 #EXTINF:-1 group-title="Кино",Amedia Premium HD
 udp://@233.81.116.167:1234
 #EXTINF:-1 group-title="Кино",Cinema HD
+udp://@233.81.116.114:1234
+#EXTINF:-1 group-title="Кино",Cinema HD
 udp://@233.81.116.158:1234
-#EXTINF:-1 group-title="Кино",Fox
-udp://@233.81.116.30:1234
-#EXTINF:-1 group-title="Кино",Fox Life
-udp://@233.81.116.33:1234
-#EXTINF:-1 group-title="Кино",Hollywood
-udp://@233.81.116.124:1234
+#EXTINF:-1 group-title="Кино",HD REX
+udp://@233.81.116.67:1234
 #EXTINF:-1 group-title="Кино",Movie Classic
-udp://@233.81.116.155:1234
-#EXTINF:-1 group-title="Кино",Paramount Channel
-udp://@233.81.116.214:1234
-#EXTINF:-1 group-title="Кино",Paramount Comedy
-udp://@233.81.116.172:1234
-#EXTINF:-1 group-title="Кино",Shot TV
-udp://@233.81.116.186:1234
-#EXTINF:-1 group-title="Кино",Sony Sci-Fi
-udp://@233.81.116.38:1234
-#EXTINF:-1 group-title="Кино",TV 1000
+udp://@233.81.116.41:1234
+#EXTINF:-1 group-title="Кино",Timeless Dizi Channel HD
+udp://@233.81.116.96:1234
+#EXTINF:-1 group-title="Кино",TV1000
 udp://@233.81.116.83:1234
-#EXTINF:-1 group-title="Кино",TV 1000 Action
+#EXTINF:-1 group-title="Кино",TV1000 Action
 udp://@233.81.116.80:1234
-#EXTINF:-1 group-title="Кино",TV 1000 Русское кино
+#EXTINF:-1 group-title="Кино",TV1000 Русское кино
 udp://@233.81.116.84:1234
+#EXTINF:-1 group-title="Кино",VIP Comedy
+udp://@233.81.116.34:1234
+#EXTINF:-1 group-title="Кино",VIP Comedy
+udp://@233.81.116.39:1234
+#EXTINF:-1 group-title="Кино",VIP Megahit
+udp://@233.81.116.26:1234
+#EXTINF:-1 group-title="Кино",VIP Premiere
+udp://@233.81.116.14:1234
+#EXTINF:-1 group-title="Кино",VIP Serial
+udp://@233.81.116.58:1234
 #EXTINF:-1 group-title="Кино",XXI
 udp://@233.81.116.177:1234
-#EXTINF:-1 group-title="Кино",Zee TV
-udp://@233.81.116.66:1234
 #EXTINF:-1 group-title="Кино",Дом кино Премиум
 udp://@233.81.116.53:1234
 #EXTINF:-1 group-title="Кино",Еврокино
 udp://@233.81.116.27:1234
 #EXTINF:-1 group-title="Кино",Иллюзион+
 udp://@233.81.116.87:1234
+#EXTINF:-1 group-title="Кино",Индийское кино
+udp://@233.81.116.139:1234
 #EXTINF:-1 group-title="Кино",Кинокомедия
 udp://@233.81.116.116:1234
-#EXTINF:-1 group-title="Кино",КиноМеню HD
-udp://@233.81.116.152:1234
+#EXTINF:-1 group-title="Кино",Кинокомедия
+udp://@233.81.116.246:1234
+#EXTINF:-1 group-title="Кино",Киноман
+udp://@233.81.116.127:1234
 #EXTINF:-1 group-title="Кино",Киномикс
 udp://@233.81.116.32:1234
+#EXTINF:-1 group-title="Кино",Киномикс
+udp://@233.81.116.249:1234
 #EXTINF:-1 group-title="Кино",Кинопремьера
 udp://@233.81.116.173:1234
 #EXTINF:-1 group-title="Кино",Киносвидание
 udp://@233.81.116.181:1234
+#EXTINF:-1 group-title="Кино",Киносвидание
+udp://@233.81.116.248:1234
 #EXTINF:-1 group-title="Кино",Киносемья
 udp://@233.81.116.159:1234
+#EXTINF:-1 group-title="Кино",Киносемья
+udp://@233.81.116.213:1234
 #EXTINF:-1 group-title="Кино",Киносерия
 udp://@233.81.116.119:1234
+#EXTINF:-1 group-title="Кино",Киносерия
+udp://@233.81.116.212:1234
 #EXTINF:-1 group-title="Кино",Кинохит
+udp://@233.81.116.102:1234
+#EXTINF:-1 group-title="Кино",Кинохит
+udp://@233.81.116.217:1234
+#EXTINF:-1 group-title="Кино",Муви ТВ
 udp://@233.81.116.25:1234
 #EXTINF:-1 group-title="Кино",Мужское кино
 udp://@233.81.116.28:1234
 #EXTINF:-1 group-title="Кино",Наше новое кино
 udp://@233.81.116.182:1234
+#EXTINF:-1 group-title="Кино",Наше новое кино
+udp://@233.81.116.214:1234
+#EXTINF:-1 group-title="Кино",НСТ
+udp://@233.81.116.94:1234
 #EXTINF:-1 group-title="Кино",Ретро
 udp://@233.81.116.52:1234
 #EXTINF:-1 group-title="Кино",Родное кино
 udp://@233.81.116.161:1234
 #EXTINF:-1 group-title="Кино",Русский иллюзион
 udp://@233.81.116.123:1234
+#EXTINF:-1 group-title="Кино",С
+udp://@233.81.116.130:1234
 #EXTINF:-1 group-title="Кино",Советское кино
-udp://@233.81.116.149:1234
+udp://@233.81.116.92:1234
 #EXTINF:-1 group-title="Кино",Феникс плюс Кино
 udp://@233.81.116.185:1234
 
 #EXTINF:-1 group-title="Развлекательный",2x2
 udp://@233.81.116.48:1234
-#EXTINF:-1 group-title="Развлекательный",Kvartal TV
-udp://@233.81.116.127:1234
-#EXTINF:-1 group-title="Развлекательный",MTV
-udp://@233.81.116.94:1234
-#EXTINF:-1 group-title="Развлекательный",БелМузТВ
-udp://@233.81.116.75:1234
+#EXTINF:-1 group-title="Развлекательный",TLC HD
+udp://@233.81.116.128:1234
 #EXTINF:-1 group-title="Развлекательный",ВТВ HD
 udp://@233.81.116.76:1234
+#EXTINF:-1 group-title="Развлекательный",ВТВ HD
+udp://@233.81.116.200:1234
 #EXTINF:-1 group-title="Развлекательный",КВН ТВ
 udp://@233.81.116.164:1234
 #EXTINF:-1 group-title="Развлекательный",Перец
 udp://@233.81.116.29:1234
+#EXTINF:-1 group-title="Развлекательный",Сарафан
+udp://@233.81.116.62:1234
+#EXTINF:-1 group-title="Развлекательный",ТВ-3
+udp://@233.81.116.122:1234
 #EXTINF:-1 group-title="Развлекательный",ТВ-3
 udp://@233.81.116.131:1234
 #EXTINF:-1 group-title="Развлекательный",ТНТ International
+udp://@233.81.116.15:1234
+#EXTINF:-1 group-title="Развлекательный",ТНТ International
 udp://@233.81.116.31:1234
 
-#EXTINF:-1 group-title="Для Детей",Boomerang
-udp://@233.81.116.188:1234
 #EXTINF:-1 group-title="Для Детей",Gulli Girl
 udp://@233.81.116.64:1234
-#EXTINF:-1 group-title="Для Детей",Nick Jr.
-udp://@233.81.116.34:1234
 #EXTINF:-1 group-title="Для Детей",Tiji
 udp://@233.81.116.82:1234
 #EXTINF:-1 group-title="Для Детей",Карусель
-udp://@233.81.116.183:1234
-#EXTINF:-1 group-title="Для Детей",Мультиландия
-udp://@233.81.116.55:1234
-#EXTINF:-1 group-title="Для Детей",О!
+udp://@233.81.116.60:1234
+#EXTINF:-1 group-title="Для Детей",Мульт
 udp://@233.81.116.61:1234
-#EXTINF:-1 group-title="Для Детей",Рыжий
-udp://@233.81.116.121:1234
+#EXTINF:-1 group-title="Для Детей",Мультиландия
+udp://@233.81.116.30:1234
+#EXTINF:-1 group-title="Для Детей",О!
+udp://@233.81.116.24:1234
 #EXTINF:-1 group-title="Для Детей",Сказки Зайки
-udp://@233.81.116.15:1234
+udp://@233.81.116.74:1234
 #EXTINF:-1 group-title="Для Детей",Смайлик
-udp://@233.81.116.95:1234
+udp://@233.81.116.85:1234
+#EXTINF:-1 group-title="Для Детей",Советские Мультфильмы
+udp://@233.81.116.57:1234
 #EXTINF:-1 group-title="Для Детей",Советские Мультфильмы
 udp://@233.81.116.156:1234
+#EXTINF:-1 group-title="Для Детей",СТС kids
+udp://@233.81.116.134:1234
 
+#EXTINF:-1 group-title="Музыка",Bridge Deluxe
+udp://@233.81.116.21:1234
 #EXTINF:-1 group-title="Музыка",Europa Plus TV
 udp://@233.81.116.47:1234
+#EXTINF:-1 group-title="Музыка",IVE Music Channel
+udp://@233.81.116.144:1234
 #EXTINF:-1 group-title="Музыка",MCM TOP
 udp://@233.81.116.97:1234
 #EXTINF:-1 group-title="Музыка",Mezzo
 udp://@233.81.116.89:1234
 #EXTINF:-1 group-title="Музыка",Mezzo Live HD
 udp://@233.81.116.169:1234
-#EXTINF:-1 group-title="Музыка",MTV 80s
-udp://@233.81.116.114:1234
-#EXTINF:-1 group-title="Музыка",MTV 90s
-udp://@233.81.116.170:1234
 #EXTINF:-1 group-title="Музыка",RU.TV Беларусь
 udp://@233.81.116.77:1234
-#EXTINF:-1 group-title="Музыка",VH1
-udp://@233.81.116.85:1234
+#EXTINF:-1 group-title="Музыка",БелМузТВ
+udp://@233.81.116.75:1234
 #EXTINF:-1 group-title="Музыка",Жара
 udp://@233.81.116.120:1234
 #EXTINF:-1 group-title="Музыка",Ля-минор ТВ
 udp://@233.81.116.117:1234
+#EXTINF:-1 group-title="Музыка",Первый музыкальный HD
+udp://@233.81.116.109:1234
 #EXTINF:-1 group-title="Музыка",ТНТ Music
 udp://@233.81.116.45:1234
 #EXTINF:-1 group-title="Музыка",Шансон ТВ
 udp://@233.81.116.91:1234
 
+#EXTINF:-1 group-title="Познавательные",+TV
+udp://@233.81.116.112:1234
 #EXTINF:-1 group-title="Познавательные",365 дней ТВ
 udp://@233.81.116.111:1234
 #EXTINF:-1 group-title="Познавательные",English Club TV HD
 udp://@233.81.116.175:1234
 #EXTINF:-1 group-title="Познавательные",Extreme Ultra 4K
-udp://@233.81.116.153:1234
+udp://@233.81.116.179:1234
+#EXTINF:-1 group-title="Познавательные",Fashion & Style 4K
+udp://@233.81.116.40:1234
 #EXTINF:-1 group-title="Познавательные",Fashion & Style 4K
 udp://@233.81.116.157:1234
 #EXTINF:-1 group-title="Познавательные",Luxury HD
 udp://@233.81.116.151:1234
-#EXTINF:-1 group-title="Познавательные",World Fashion HD
-udp://@233.81.116.14:1234
 #EXTINF:-1 group-title="Познавательные",Авто 24
 udp://@233.81.116.99:1234
 #EXTINF:-1 group-title="Познавательные",Авто Плюс
 udp://@233.81.116.36:1234
-#EXTINF:-1 group-title="Познавательные",Бобёр
-udp://@233.81.116.22:1234
-#EXTINF:-1 group-title="Познавательные",Джой Кук
-udp://@233.81.116.146:1234
-#EXTINF:-1 group-title="Познавательные",Драйв
-udp://@233.81.116.49:1234
+#EXTINF:-1 group-title="Познавательные",Авто Плюс
+udp://@233.81.116.247:1234
+#EXTINF:-1 group-title="Познавательные",Живая Еда
+udp://@233.81.116.54:1234
 #EXTINF:-1 group-title="Познавательные",Живи!
 udp://@233.81.116.78:1234
-#EXTINF:-1 group-title="Познавательные",Загородная жизнь
-udp://@233.81.116.58:1234
-#EXTINF:-1 group-title="Познавательные",Здоровое ТВ
-udp://@233.81.116.51:1234
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 udp://@233.81.116.50:1234
-#EXTINF:-1 group-title="Познавательные",Мужской
-udp://@233.81.116.57:1234
-#EXTINF:-1 group-title="Познавательные",Ностальгия
-udp://@233.81.116.54:1234
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ
+udp://@233.81.116.238:1234
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+udp://@233.81.116.17:1234
+#EXTINF:-1 group-title="Познавательные",НТВ Право
+udp://@233.81.116.152:1234
 #EXTINF:-1 group-title="Познавательные",Оружие
 udp://@233.81.116.110:1234
 #EXTINF:-1 group-title="Познавательные",Охота и рыбалка
 udp://@233.81.116.44:1234
-#EXTINF:-1 group-title="Познавательные",Охотник и рыболов HD
-udp://@233.81.116.163:1234
+#EXTINF:-1 group-title="Познавательные",Техно 24
+udp://@233.81.116.20:1234
 #EXTINF:-1 group-title="Познавательные",Россия К
 udp://@233.81.116.88:1234
 #EXTINF:-1 group-title="Познавательные",Светлое ТВ HD
 udp://@233.81.116.69:1234
 #EXTINF:-1 group-title="Познавательные",Союз
 udp://@233.81.116.46:1234
-#EXTINF:-1 group-title="Познавательные",Тайна
-udp://@233.81.116.10:1234
-#EXTINF:-1 group-title="Познавательные",Театр
-udp://@233.81.116.65:1234
-#EXTINF:-1 group-title="Познавательные",ТелеКафе
-udp://@233.81.116.179:1234
-#EXTINF:-1 group-title="Познавательные",Телемагазин HD
-udp://@233.81.116.20:1234
 #EXTINF:-1 group-title="Познавательные",Усадьба
 udp://@233.81.116.42:1234
 
-#EXTINF:-1 group-title="Спорт",Senata Sports 1 HD
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+udp://@233.81.116.73:1234
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+udp://@233.81.116.210:1234
+#EXTINF:-1 group-title="Спорт",KHL
+udp://@233.81.116.107:1234
+#EXTINF:-1 group-title="Спорт",KHL Prime
+udp://@233.81.116.59:1234
+#EXTINF:-1 group-title="Спорт",KHL Prime
+udp://@233.81.116.66:1234
+#EXTINF:-1 group-title="Спорт",MMA-TV
 udp://@233.81.116.93:1234
 #EXTINF:-1 group-title="Спорт",Senata Sports 1 HD
-udp://@233.81.116.180:1234
-#EXTINF:-1 group-title="Спорт",UFC HD
-udp://@233.81.116.168:1234
+udp://@233.81.116.98:1234
+#EXTINF:-1 group-title="Спорт",Senata Sports 2 HD
+udp://@233.81.116.105:1234
 #EXTINF:-1 group-title="Спорт",Viasat Sport
-udp://@233.81.116.184:1234
-#EXTINF:-1 group-title="Спорт",КХЛ
-udp://@233.81.116.107:1234
-#EXTINF:-1 group-title="Спорт",М-1 Глобал
-udp://@233.81.116.100:1234
+udp://@233.81.116.63:1234
+#EXTINF:-1 group-title="Спорт",Бокс ТВ
+udp://@233.81.116.140:1234
 #EXTINF:-1 group-title="Спорт",МАТЧ! Планета
 udp://@233.81.116.211:1234
-#EXTINF:-1 group-title="Спорт",Русский экстрим
-udp://@233.81.116.67:1234
-
