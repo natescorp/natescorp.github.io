@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:TVPACKET4
+#PLAYLIST:TVPACKET4_FULL
 
 #EXTINF:-1 group-title="Общедоступный",Беларусь 1 HD
 udp://@233.81.116.1:1234
@@ -160,7 +160,7 @@ udp://@233.81.116.154:1234
 udp://@233.81.116.86:1234
 
 #EXTINF:-1 group-title="Кино",.black
-udp://@233.81.116.1:1234
+udp://@233.81.116.129:1234
 #EXTINF:-1 group-title="Кино",.red
 udp://@233.81.116.108:1234
 #EXTINF:-1 group-title="Кино",.sci-fi
