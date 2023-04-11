@@ -32,7 +32,33 @@
 				color: #FFFF55;
 				background-color: #0000AA;
 			}
-			
+			h1,h2,h3,h4,h5,h6 {
+				font-weight: normal;
+			}
+			#radio {
+				display: flex;
+				justify-content: space-evenly;
+				flex-wrap: wrap;
+			}
+			.city {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				border: 1px dashed #FFFF55;
+				padding: 1vw;
+			}
+			.table {
+				display: flex;
+				flex-direction: column;
+			}
+			.row {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+			}
+			.row:nth-child(2n) {
+				background-color: #00AAAA;
+			}
+
 			@font-face {
 				 font-family: "WebPlus_IBM_VGA";
 				 src: url("./WebPlus_IBM_VGA_9x16.woff") format("woff");
@@ -126,10 +152,10 @@
       var getWaves = function (cities) {
         return Object.entries(cities).map(function (city) {
           var stations = city[1].map(function (radioWave) {
-            return `<li>${radioWave.wave} - ${radioWave.name}</li>`;
+            return `<div class="row"><div class="item">${radioWave.wave}</div><div class="item">${radioWave.name}</div></div>`;
           }).join('');
 
-          return `<h3>${cityNames[city[0]]}</h3><ol>${stations}</ol>`;
+          return `<div class="city"><h3>${cityNames[city[0]]}</h3><div class="table">${stations}</div></div>`;
         }).join('');
       }
 			list.innerHTML = getWaves(radioWaves);
