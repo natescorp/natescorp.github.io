@@ -49,6 +49,35 @@
 				grid-template-columns: repeat(2, 1fr);
 				gap: 2vmin;
 			}
+			.header {
+				display: flex;
+				justify-content: space-between;
+			}
+			.menu {
+				display: flex;
+				gap: 3vmin;
+				font-size: 1.5em;
+				list-style-type: none;
+			}
+			a.link,
+			a.link:active,
+			a.link:hover {
+				color: inherit;
+				cursor: pointer;
+				text-decoration: none;
+			}
+			a.link::before {
+				content: '[';
+				visibility: hidden;
+			}
+			a.link::after {
+				content: ']';
+				visibility: hidden;
+			}
+			a.link:hover::before,
+			a.link:hover::after {
+				visibility: inherit;
+			}
 			.city {
 				display: flex;
 				flex-direction: column;
@@ -87,7 +116,13 @@
 		</style>
 	</head>
 	<body>
-		<h1>Hello World!</h1>
+		<div class="header">
+			<h1>Hello World!</h1>
+			<ul class="menu">
+				<li><a class="link" href="/bash-gen" target="_self" rel="noopener">bash-gen</a></li>
+				<li><a class="link" href="/slk-r170" target="_self" rel="noopener">slk</a></li>
+			</ul>
+		</div>
 		<div id="radio"></div>
 		<script>
 			var radioWaves = {
