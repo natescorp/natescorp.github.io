@@ -364,6 +364,7 @@ h3 {
 .table-container.active .row:nth-child(24) { animation-delay: 1.2s; }
 .table-container.active .row:nth-child(25) { animation-delay: 1.25s; }
 .table-container.active .row:nth-child(26) { animation-delay: 1.3s; }
+.table-container.active .row:nth-child(27) { animation-delay: 1.3s; }
 
 .item {
 	color: var(--vga-light-green);
