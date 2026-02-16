@@ -10,15 +10,15 @@
 			gtag('config', 'UA-83592129-2');
 		</script>
 		<meta charset="utf-8"/>
-		<link rel="icon" href="/favicon.ico"/>
+		<link rel="icon" href="./src/favicon.ico"/>
 		<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1"/>
 		<meta name="MobileOptimized" content="width"/>
 		<meta name="apple-mobile-web-app-capable" content="yes"/>
 		<meta name="mobile-web-app-capable" content="yes"/>
-		<meta name="theme-color" content="#000000"/>
-		<meta name="description" content="Web site created using create-react-app"/>
-		<link rel="apple-touch-icon" href="/logo192.png"/>
-		<link rel="manifest" href="/manifest.json"/>
+		<meta name="theme-color" content="#0000AA"/>
+		<meta name="description" content="Web site wasn't created using create-react-app"/>
+		<!-- <link rel="apple-touch-icon" href="/logo192.png"/> -->
+		<!-- <link rel="manifest" href="/manifest.json"/> -->
 		<title>Not React App</title>
 		<link href="/static/css/main.816236cb.chunk.css" rel="stylesheet">
 		<!-- Yandex.Metrika counter -->
@@ -26,193 +26,17 @@
 		<noscript><div><img src="https://mc.yandex.ru/watch/32156009" style="position: absolute; left: -9999px;" alt="" /></div></noscript>
 		<!-- /Yandex.Metrika counter -->
 		<meta name="yandex-verification" content="1b7b812ac5d25fdb" />
-		<style>
-			html {
-				font-family: "WebPlus_IBM_VGA";
-				font-size: 1vmax;
-				color: #FFFF55;
-				background-color: #0000AA;
-				max-height: 100dvh;
-				max-width: 100vw;
-			}
-			body {
-				margin: 0;
-				padding: 4vmin;
-				max-height: 100dvh;
-				max-width: 100vw;
-			}
-			h1,h2,h3,h4,h5,h6 {
-				font-weight: normal;
-			}
-			#radio {
-				display: grid;
-				grid-template-columns: repeat(2, 1fr);
-				gap: 2vmin;
-			}
-			.header {
-				display: flex;
-				justify-content: space-between;
-			}
-			.menu {
-				display: flex;
-				gap: 3vmin;
-				font-size: 1.5em;
-				list-style-type: none;
-			}
-			a.link,
-			a.link:active,
-			a.link:hover {
-				color: inherit;
-				cursor: pointer;
-				text-decoration: none;
-			}
-			a.link::before {
-				content: '[';
-				visibility: hidden;
-			}
-			a.link::after {
-				content: ']';
-				visibility: hidden;
-			}
-			a.link:hover::before,
-			a.link:hover::after {
-				visibility: inherit;
-			}
-			.city {
-				display: flex;
-				flex-direction: column;
-				align-items: center;
-				border: 1px dashed #FFFF55;
-				padding: 1vmin;
-				font-size: 2rem;
-			}
-			.table {
-				display: flex;
-				flex-direction: column;
-				justify-content: space-evenly;
-				font-size: 1.5rem;
-			}
-			.row {
-				display: flex;
-				gap: 2vmin;
-			}
-			.row:nth-child(2n) {
-				background-color: #00AAAA;
-			}
-			.row > .item:first-child {
-				min-width: 12vw;
-			}
-			.item {
-				display: flex;
-				flex-wrap: wrap;
-			}
-
-			@font-face {
-				 font-family: "WebPlus_IBM_VGA";
-				 src: url("./WebPlus_IBM_VGA_9x16.woff") format("woff");
-				 font-style: normal;
-				 font-weight: normal;
-			}
-		</style>
+		<link rel="stylesheet" href="./src/styles.css">
 	</head>
 	<body>
 		<div class="header">
-			<h1>Hello World!</h1>
+			<h1>natescorp.github.io</h1>
 			<ul class="menu">
 				<li><a class="link" href="/bash-gen" target="_self" rel="noopener">bash-gen</a></li>
 				<li><a class="link" href="/slk-r170" target="_self" rel="noopener">slk</a></li>
 			</ul>
 		</div>
 		<div id="radio"></div>
-		<script>
-			var radioWaves = {
-        minsk: [
-          { name: 'Relax', wave: 87.5 },
-          { name: 'Народное', wave: 87.9 },
-          { name: 'Минск', wave: 92.4 },
-          { name: 'Europa plus', wave: 92.8 },
-          { name: 'Юмор', wave: 93.7 },
-          { name: 'Легенды', wave: 94.1 },
-          { name: 'Мелодии Века', wave: 96.2 },
-          { name: 'Ретро', wave: 96.9 },
-          { name: 'Минская волна', wave: 97.4 },
-          { name: 'Авторадио', wave: 98 },
-          { name: 'Новое', wave: 98.4 },
-          { name: 'Русское', wave: 98.9 },
-          { name: 'Unistar', wave: 99.5 },
-          { name: 'Energy', wave: 100.4 },
-          { name: 'Пилот', wave: 101.2 },
-          { name: 'Центр', wave: 101.7 },
-          { name: 'Рокс', wave: 102.1 },
-          { name: 'Компас', wave: 102.5 },
-          { name: 'Культура', wave: 102.9 },
-          { name: 'Радиус', wave: 103.7 },
-          { name: 'BA', wave: 104.6 },
-          { name: 'Столица', wave: 105.1 },
-          { name: 'Душевное', wave: 105.7 },
-          { name: 'Первый национальный', wave: 106.2 },
-          { name: 'Мир', wave: 107.1 },
-          { name: 'Альфа', wave: 107.9 }
-        ],
-        molodechno: [
-          { name: 'Молодечно', wave: 89.2 },
-          { name: 'Мир', wave: 93.3 },
-          { name: 'Першы Канал', wave: 96.6 },
-          { name: 'Легенды', wave: 97.1 },
-          { name: 'Новое', wave: 100.6 },
-          { name: 'Минская волна', wave: 107.4 }
-        ],
-        smorgon: [
-          { name: 'Столица', wave: 66.38 },
-          { name: 'Гродно', wave: 67.19 },
-          { name: 'Першы Канал', wave: 67.97 },
-          { name: 'Культура', wave: 70.13 },
-          { name: '-', wave: 88 },
-          { name: 'Юмор', wave: 91 },
-          { name: 'Новое', wave: 92.1 },
-          { name: 'Столица', wave: 94.4 },
-          { name: '-', wave: 97.7 },
-          { name: '-', wave: 99.2 },
-          { name: 'Радиус', wave: 101.4 },
-          { name: 'Гродно', wave: 102.8 },
-          { name: 'Першы Канал', wave: 103.6 },
-          { name: '-', wave: 106.1 }
-        ],
-        myadzel: [
-          { name: 'Столица', wave: 66.86 },
-          { name: 'Витебск', wave: 67.64 },
-          { name: 'Першы Канал', wave: 68.69 },
-          { name: 'Культура', wave: 70.31 },
-          { name: 'Новое', wave: 90.5 },
-          { name: '-', wave: 91.3 },
-          { name: '-', wave: 93.1 },
-          { name: 'Unistar', wave: 94.8 },
-          { name: 'Столица', wave: 98.5 },
-          { name: 'Беларусь', wave: 102 },
-          { name: 'Минская волна', wave: 102.4 },
-          { name: 'Радиус', wave: 103.9 },
-          { name: 'Культура', wave: 104.9 },
-          { name: 'Першы Канал', wave: 106.4 },
-          { name: '-', wave: 106.9 }
-        ]
-      };
-			var list = document.getElementById('radio');
-      var cityNames = {
-        minsk: 'Минск',
-        molodechno: 'Молодечно',
-        smorgon: 'Сморгонь',
-        myadzel: 'Мядель'
-      }
-      var getWaves = function (cities) {
-        return Object.entries(cities).map(function (city) {
-          var stations = city[1].map(function (radioWave) {
-            return `<div class="row"><div class="item">${radioWave.wave}</div><div class="item">${radioWave.name}</div></div>`;
-          }).join('');
-
-          return `<div class="city"><h3>${cityNames[city[0]]}</h3><div class="table">${stations}</div></div>`;
-        }).join('');
-      }
-			list.innerHTML = getWaves(radioWaves);
-		</script>
+		<script src="./src/script.js"></script>
 	</body>
 </html>
